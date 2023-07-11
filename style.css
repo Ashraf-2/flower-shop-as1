@@ -40,7 +40,7 @@ header {
 .banner-detail {
   margin-bottom: 30px;
   color: #27272799;
-  font-size: 14px;
+  font-size: 12px;
   width: 400px;
   font-weight: 200;
 }
@@ -217,8 +217,10 @@ header {
   width: 190px;
 }
 
+/* big img style */
+
 .big-img {
-  margin: 80px 240px 80px 240px;
+  margin: 80px 245px 80px 244px;
   background-image: url("/flowers/rectangle\ 9.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -226,10 +228,8 @@ header {
   width: 782px;
   height: 230px;
 }
-
-/* big img style */
 .big-title {
-  color: #272727;
+    color: #272727;
   padding-top: 50px;
   padding-bottom: 0px;
 
