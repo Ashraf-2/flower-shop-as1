@@ -12,8 +12,6 @@ header {
 }
 
 .banner-section {
-  /* margin: 0px 240px 0px 240px; */
-  /* padding-top: 50px; */
   margin: 0px 240px;
   display: flex;
   align-items: center;
@@ -22,7 +20,6 @@ header {
 }
 
 .banner-info {
-  /* padding: 190px 0px; */
   max-width: 500px;
 }
 
@@ -87,10 +84,9 @@ header {
   line-height: 18px;
   margin-bottom: 20px;
 }
-
+/* featured section */
 .featured-pic {
   display: flex;
-  /* align-items:last end; */
   justify-content: center;
   gap: 20px;
 }
@@ -123,12 +119,9 @@ header {
   height: 300px;
   display: flex;
   justify-content: center;
-  /* align-items: normal; */
 } 
 
 .pic_ftr {
-  /* margin: 0; */
-  /* padding: 40px 15px 0px 15px; */
   margin: 20px 10px 0px 10px;
 
 }
@@ -144,7 +137,7 @@ header {
   line-height: 35px;
   text-decoration-line: underline;
 }
-
+/* service section style */
 .service {
   margin: 80px 240px 80px 240px;
   background-color: rgba(39, 39, 39, 0.05);
@@ -164,6 +157,7 @@ header {
   gap: 30px;
   margin: 20px 20px;
 }
+/* advertise section style */
 .adv {
   background-color: rgba(229, 84, 115, 0.05);
   display: flex;
@@ -195,6 +189,7 @@ header {
 .off {
   color: #e55473;
 }
+/* instagram section style */
 .instagram {
   margin: 80px 240px 80px 240px;
 }
@@ -207,7 +202,6 @@ header {
 .insta-pic-item {
   width: 190px;
 }
-
 /* big img style */
 
 .big-img {
@@ -234,7 +228,6 @@ header {
   font-size: 12px;
   font-weight: 400;
   line-height: 18px;
-  /* margin: 16px 600px 60px 600px; */
   margin-top: 8px;
 }
 
