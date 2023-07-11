@@ -52,7 +52,7 @@ header {
   color: #fff;
 
   font-size: 12px;
-  font-weight: bold;
+  font-weight:400;
   color: white;
   width: 130px;
   height: 40px;
@@ -201,18 +201,61 @@ header {
 .btn-ad {
   margin-left: 150px;
 }
-.off{
-    color: #E55473;
+.off {
+  color: #e55473;
 }
-.instagram{
-    margin: 80px 240px 80px 240px;
+.instagram {
+  margin: 80px 240px 80px 240px;
 }
-.insta-pic{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    gap: 5px;
+.insta-pic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
 }
-.insta-pic-item{
-    width: 190px ;
-} 
+.insta-pic-item {
+  width: 190px;
+}
+
+.big-img {
+  margin: 80px 240px 80px 240px;
+  background-image: url("/flowers/rectangle\ 9.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 782px;
+  height: 230px;
+}
+
+/* big img style */
+.big-title {
+  color: #272727;
+  padding-top: 50px;
+  padding-bottom: 0px;
+
+  text-align: center;
+  font-size: 32px;
+  font-weight: 400;
+  
+}
+.big-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  /* margin: 16px 600px 60px 600px; */
+  margin-top: 8px;
+}
+
+.big-contact{
+    margin: 20px 150px 0px 150px;
+
+}
+.eml-area{
+    border: none;
+    padding-left: 10px;
+    border-radius: 8px;
+    width: 300px;
+    height: 40px;
+}
