@@ -80,7 +80,7 @@ header {
 .section-description {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
-  font-size: 14px;
+  font-size: 12px;
   font-style: normal;
   font-weight: 400;
   line-height: 18px;
@@ -204,3 +204,15 @@ header {
 .off{
     color: #E55473;
 }
+.instagram{
+    margin: 80px 240px 80px 240px;
+}
+.insta-pic{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.insta-pic-item{
+    width: 190px ;
+} 
