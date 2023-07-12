@@ -3,7 +3,7 @@
 }
 
 body {
-  font-family::'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 /* header section styles */
@@ -238,7 +238,7 @@ figcaption{
 
 .big-img {
   margin: 80px 245px 80px 244px;
-  background-image: url("/flowers/rectangle_9.png");
+  background-image: url("./flowers/rectangle_9.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -303,3 +303,4 @@ footer {
   font-style: normal;
   font-weight: 300;
 }
+/* all done */
