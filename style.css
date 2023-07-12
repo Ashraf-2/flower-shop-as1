@@ -137,6 +137,38 @@ header {
   line-height: 35px;
   text-decoration-line: underline;
 }
+/* bonus section style */
+.bonus{
+  background-color: rgba(5, 151, 160, 0.15);
+  margin: 80px 0px 80px 0px;
+  padding: 0px 240px;
+
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+}
+.bonus-spn{
+  color: #e55473;
+}
+.bonus-info{
+  margin: 0px;
+  padding-top: 100px;
+}
+.bns-desc{
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.bonus-video{
+  margin: 0px;
+  padding-top: 10px;
+}
+.bns-vd-spc{
+  width: 380px;
+}
+figcaption{
+  text-align: center;
+  font-weight: bold;
+}
 /* service section style */
 .service {
   margin: 80px 240px 80px 240px;
